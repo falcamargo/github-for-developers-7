@@ -4,3 +4,4 @@ So, as it was asked in Issue #3 , here is my bio information:
 -Favorite food: Rice & Beans
 -Hobby: auto modeling
 -Favorite color: blue
+-Favorite Sport: soccer
